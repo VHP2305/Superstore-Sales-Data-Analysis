@@ -9,4 +9,9 @@ The visualizations are also customizable, so you can tailor them to your specifi
 This sales data visualization is a powerful way of presenting data that can help you track your sales performance and make informed decisions about your business.
 
 * **View live tableau dashboard here :** https://public.tableau.com/app/profile/vishal.patel5082
-* ![Dashboard 1 (1)](https://github.com/VHP2305/Superstore-Sales-Data-Analysis/assets/88278435/209be98e-6f5d-47e0-bdcd-453a68bfe6a4)
+  
+  ![Dashboard 1 (1)](https://github.com/VHP2305/Superstore-Sales-Data-Analysis/assets/88278435/209be98e-6f5d-47e0-bdcd-453a68bfe6a4)
+
+* **Power BI dashboard Image :**
+
+![Superstore_PowerBI_page-0001](https://github.com/VHP2305/Superstore-Sales-Data-Analysis/assets/88278435/ebe5c1cf-c880-4610-83c9-e91c4b087c05)
